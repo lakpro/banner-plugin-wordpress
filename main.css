@@ -1,0 +1,43 @@
+.msg {
+  background-color: rgb(37, 37, 37);
+  text-align: center;
+  color: white;
+  font-size: medium;
+}
+
+.banner-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 35px;
+}
+.banner-wrapper form {
+  width: 100%;
+  max-width: 800px;
+}
+.banner-wrapper label {
+  font-size: 3em;
+  display: block;
+  line-height: normal;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+.banner-wrapper input {
+  color: #666;
+  width: 100%;
+  padding: 30px;
+  font-size: 3em;
+}
+.banner-wrapper .button {
+  font-size: 2em;
+  text-transform: uppercase;
+  background: rgba(59, 173, 227, 1);
+  background: linear-gradient(
+    45deg,
+    rgba(59, 173, 227, 1) 0%,
+    rgba(87, 111, 230, 1) 25%,
+    rgba(152, 68, 183, 1) 51%,
+    rgba(255, 53, 127, 1) 100%
+  );
+  border: none;
+}

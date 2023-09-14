@@ -11,8 +11,6 @@ A simple WordPress plugin that displays a banner at the top of your website to g
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -32,10 +30,9 @@ Once the plugin is activated, a friendly greeting banner will appear at the top 
 
 If a user is logged in, the banner will display their username.
 
+![image](https://github.com/lakpro/banner-plugin-wordpress/assets/73340463/d7e5a141-2393-457a-a830-d91e9e7178a9)
 
 ## Customization
-
-![image](https://github.com/lakpro/banner-plugin-wordpress/assets/73340463/cfa7d624-230b-41f0-b547-f99e79a54954)
 
 You can customize the banner text by following these steps:
 
@@ -44,3 +41,5 @@ You can customize the banner text by following these steps:
 3. Click "Save Changes."
 
 The banner text will now be updated to your custom message.
+
+![image](https://github.com/lakpro/banner-plugin-wordpress/assets/73340463/cfa7d624-230b-41f0-b547-f99e79a54954)

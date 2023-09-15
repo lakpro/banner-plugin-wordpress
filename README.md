@@ -18,11 +18,10 @@ The WordPress Banner Plugin provides a friendly way to greet your website visito
 
 ## Installation
 
-1. Download the [latest release](https://github.com/lakpro/banner-plugin/releases) of the plugin.
-2. Log in to your WordPress admin dashboard.
-3. Navigate to "Plugins" and click "Add New."
-4. Click the "Upload Plugin" button, then choose the downloaded ZIP file.
-5. Click "Install Now" and then "Activate Plugin."
+1. Log in to your WordPress admin dashboard.
+2. Navigate to "Plugins" and click "Add New."
+3. Click the "Upload Plugin" button, then choose the downloaded ZIP file.
+4. Click "Install Now" and then "Activate Plugin."
 
 ## Usage
 
